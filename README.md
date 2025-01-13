@@ -1,2 +1,2 @@
-# deeleval
-The purpose of this repository is to create LMM evaluation class
+# Deepeval
+The purpose of this repository is to create LLM evaluation class
